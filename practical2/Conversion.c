@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
-/* This is sartaj's file*/
+
 int main(void) {
 
 /* Declare variables */
