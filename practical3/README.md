@@ -4,7 +4,7 @@ This program contains practical 3 code where we find area of a curve and check t
 
 ## Compile:
 
-*gcc -o Area Area.c
+*gcc -o Area Area.c -lm
 
 ## Execute:
 
