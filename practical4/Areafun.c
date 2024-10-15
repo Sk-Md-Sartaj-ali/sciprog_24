@@ -18,7 +18,7 @@ int main(void) {
 	//Assigning tan(x) values to tanarr and printing the array
 	for(i=0;i<=N;i++){
 		tanarr[i]=tan(degtorad(i*5));
-		printf("tanarr[%d] = %f/n",i,tanarr[i]);
+		printf("tanarr[%d] = %f\n",i,tanarr[i]);
 	}
 	
 	//Calling the traprule function to calculate the area using trapezoidal rule which is approxiamated value 
