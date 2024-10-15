@@ -4,7 +4,7 @@ This program contains practical 4 code where we find area of a curve just like p
 
 ## Compile:
 
-*gcc -o Areafun Areafun.c
+*gcc -o Areafun Areafun.c -lm
 
 ## Execute:
 
