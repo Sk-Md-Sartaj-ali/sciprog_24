@@ -1,4 +1,4 @@
-#Practical 5
+# Practical 5
 
 This folder contains practical 5 codes.
 * fibonacci.c file which prints n fibonacci numbers for a given n value
