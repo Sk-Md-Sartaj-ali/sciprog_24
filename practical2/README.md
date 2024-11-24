@@ -1,4 +1,4 @@
-Practical 2
+# Practical 2
 
 This folder contains practical 2 codes.
 
